@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="3" ignored="38" total="58" passed="17">
+  <reporter-output>
+  </reporter-output>
+  <suite name="optaris" duration-ms="1121924" started-at="2018-09-26T07:14:42Z" finished-at="2018-09-26T07:33:24Z">
+    <groups>
+      <group name="bam.ap02.ConsultaConFiltros_1">
+        <method signature="ConsultaConFiltros_1.testConsultaConFiltros1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ap02.ConsultaConFiltros_1@14ddd49]" name="testConsultaConFiltros1" class="com.optaris.deyel.bam.ap02.ConsultaConFiltros_1"/>
+      </group> <!-- bam.ap02.ConsultaConFiltros_1 -->
+      <group name="bam.ba01.ConsultaConFiltros_1">
+        <method signature="ConsultaConFiltros_1.testConsultaConFiltros1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ba01.ConsultaConFiltros_1@1bbf57e]" name="testConsultaConFiltros1" class="com.optaris.deyel.bam.ba01.ConsultaConFiltros_1"/>
+      </group> <!-- bam.ba01.ConsultaConFiltros_1 -->
+      <group name="bam.ap04.ConsultaInicial_1">
+        <method signature="ConsultaInicial_1.testConsultaInicial1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ap04.ConsultaInicial_1@aa12dd]" name="testConsultaInicial1" class="com.optaris.deyel.bam.ap04.ConsultaInicial_1"/>
+      </group> <!-- bam.ap04.ConsultaInicial_1 -->
+      <group name="bam.ap05.ConsultaInicial_1">
+        <method signature="ConsultaInicial_1.testConsultaInicial1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ap05.ConsultaInicial_1@11f39f9]" name="testConsultaInicial1" class="com.optaris.deyel.bam.ap05.ConsultaInicial_1"/>
+      </group> <!-- bam.ap05.ConsultaInicial_1 -->
+      <group name="bam.ba01.ConsultaInicial_1">
+        <method signature="ConsultaInicial_1.testConsultaInicial1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ba01.ConsultaInicial_1@1f13d6e]" name="testConsultaInicial1" class="com.optaris.deyel.bam.ba01.ConsultaInicial_1"/>
+      </group> <!-- bam.ba01.ConsultaInicial_1 -->
+      <group name="bam.ap01.ConsultaInicial_1">
+        <method signature="ConsultaInicial_1.testConsultaInicial1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ap01.ConsultaInicial_1@707e36]" name="testConsultaInicial1" class="com.optaris.deyel.bam.ap01.ConsultaInicial_1"/>
+      </group> <!-- bam.ap01.ConsultaInicial_1 -->
+      <group name="bam.ap01.ConsultaConFiltros_1">
+        <method signature="ConsultaConFiltros_1.testConsultaConFiltros1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ap01.ConsultaConFiltros_1@6d1014]" name="testConsultaConFiltros1" class="com.optaris.deyel.bam.ap01.ConsultaConFiltros_1"/>
+      </group> <!-- bam.ap01.ConsultaConFiltros_1 -->
+      <group name="bam.ap02.ConsultaInicial_1">
+        <method signature="ConsultaInicial_1.testConsultaInicial1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ap02.ConsultaInicial_1@1554b06]" name="testConsultaInicial1" class="com.optaris.deyel.bam.ap02.ConsultaInicial_1"/>
+      </group> <!-- bam.ap02.ConsultaInicial_1 -->
+      <group name="bam.ba02.ConsultaInicial_1">
+        <method signature="ConsultaInicial_1.testConsultaInicial1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ba02.ConsultaInicial_1@144fc21]" name="testConsultaInicial1" class="com.optaris.deyel.bam.ba02.ConsultaInicial_1"/>
+      </group> <!-- bam.ba02.ConsultaInicial_1 -->
+      <group name="bam.bp01.ConsultaInicial_1">
+        <method signature="ConsultaInicial_1.testConsultaInicial1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.bp01.ConsultaInicial_1@16eabae]" name="testConsultaInicial1" class="com.optaris.deyel.bam.bp01.ConsultaInicial_1"/>
+      </group> <!-- bam.bp01.ConsultaInicial_1 -->
+      <group name="bam.aa01.ConsultaConFiltros_1">
+        <method signature="ConsultaConFiltros_1.testConsultaConFiltros1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.aa01.ConsultaConFiltros_1@17b7b6]" name="testConsultaConFiltros1" class="com.optaris.deyel.bam.aa01.ConsultaConFiltros_1"/>
+        <method signature="ConsultaConFiltros_1.testConsultaConFiltros1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ba02.ConsultaConFiltros_1@11cdd8a]" name="testConsultaConFiltros1" class="com.optaris.deyel.bam.ba02.ConsultaConFiltros_1"/>
+      </group> <!-- bam.aa01.ConsultaConFiltros_1 -->
+      <group name="bam.bp02.ConsultaConFiltros_1">
+        <method signature="ConsultaConFiltros_1.testConsultaConFiltros1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.bp02.ConsultaConFiltros_1@7dc304]" name="testConsultaConFiltros1" class="com.optaris.deyel.bam.bp02.ConsultaConFiltros_1"/>
+      </group> <!-- bam.bp02.ConsultaConFiltros_1 -->
+      <group name="bam.ap05.ConsultaConFiltros_1">
+        <method signature="ConsultaConFiltros_1.testConsultaConFiltros1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ap05.ConsultaConFiltros_1@1d7a715]" name="testConsultaConFiltros1" class="com.optaris.deyel.bam.ap05.ConsultaConFiltros_1"/>
+      </group> <!-- bam.ap05.ConsultaConFiltros_1 -->
+      <group name="bam.bp02.ConsultaInicial_1">
+        <method signature="ConsultaInicial_1.testConsultaInicial1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.bp02.ConsultaInicial_1@729b1e]" name="testConsultaInicial1" class="com.optaris.deyel.bam.bp02.ConsultaInicial_1"/>
+      </group> <!-- bam.bp02.ConsultaInicial_1 -->
+      <group name="bam.bp01.ConsultaConFiltros_1">
+        <method signature="ConsultaConFiltros_1.testConsultaConFiltros1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ap04.ConsultaConFiltros_1@11276c2]" name="testConsultaConFiltros1" class="com.optaris.deyel.bam.ap04.ConsultaConFiltros_1"/>
+        <method signature="ConsultaConFiltros_1.testConsultaConFiltros1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.bp01.ConsultaConFiltros_1@1faf8f2]" name="testConsultaConFiltros1" class="com.optaris.deyel.bam.bp01.ConsultaConFiltros_1"/>
+      </group> <!-- bam.bp01.ConsultaConFiltros_1 -->
+      <group name="bam.aa01.ConsultaInicial_1">
+        <method signature="ConsultaInicial_1.testConsultaInicial1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.aa01.ConsultaInicial_1@1063c0a]" name="testConsultaInicial1" class="com.optaris.deyel.bam.aa01.ConsultaInicial_1"/>
+      </group> <!-- bam.aa01.ConsultaInicial_1 -->
+      <group name="bam.ap03.ConsultaConFiltros_1">
+        <method signature="ConsultaConFiltros_1.testConsultaConFiltros1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ap03.ConsultaConFiltros_1@14e1548]" name="testConsultaConFiltros1" class="com.optaris.deyel.bam.ap03.ConsultaConFiltros_1"/>
+      </group> <!-- bam.ap03.ConsultaConFiltros_1 -->
+      <group name="bam.ap03.ConsultaInicial_1">
+        <method signature="ConsultaInicial_1.testConsultaInicial1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ap03.ConsultaInicial_1@3a4799]" name="testConsultaInicial1" class="com.optaris.deyel.bam.ap03.ConsultaInicial_1"/>
+      </group> <!-- bam.ap03.ConsultaInicial_1 -->
+    </groups>
+    <test name="bam" duration-ms="1121924" started-at="2018-09-26T07:14:42Z" finished-at="2018-09-26T07:33:24Z">
+      <class name="com.optaris.deyel.bam.bp02.ConsultaConFiltros_1">
+        <test-method status="PASS" signature="testConsultaConFiltros1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.bp02.ConsultaConFiltros_1@7dc304]" name="testConsultaConFiltros1" duration-ms="45599" started-at="2018-09-26T04:32:03Z" finished-at="2018-09-26T04:32:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConsultaConFiltros1 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.optaris.deyel.bam.bp02.ConsultaConFiltros_1@7dc304]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:32:03Z" finished-at="2018-09-26T04:32:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.optaris.deyel.bam.bp02.ConsultaConFiltros_1@7dc304]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:32:48Z" finished-at="2018-09-26T04:32:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.optaris.deyel.bam.bp02.ConsultaConFiltros_1 -->
+      <class name="com.optaris.deyel.bam.aa01.ConsultaConFiltros_1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.optaris.deyel.bam.aa01.ConsultaConFiltros_1@17b7b6]" name="setUp" is-config="true" duration-ms="15697" started-at="2018-09-26T04:14:27Z" finished-at="2018-09-26T04:14:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.optaris.deyel.bam.aa01.ConsultaConFiltros_1@17b7b6]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:14:42Z" finished-at="2018-09-26T04:14:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testConsultaConFiltros1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.aa01.ConsultaConFiltros_1@17b7b6]" name="testConsultaConFiltros1" duration-ms="103398" started-at="2018-09-26T04:14:42Z" finished-at="2018-09-26T04:16:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConsultaConFiltros1 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.optaris.deyel.bam.aa01.ConsultaConFiltros_1@17b7b6]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:16:26Z" finished-at="2018-09-26T04:16:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.optaris.deyel.bam.aa01.ConsultaConFiltros_1@17b7b6]" name="afterSuite" is-config="true" duration-ms="827" started-at="2018-09-26T04:33:24Z" finished-at="2018-09-26T04:33:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.optaris.deyel.bam.aa01.ConsultaConFiltros_1 -->
+      <class name="com.optaris.deyel.bam.ap04.ConsultaConFiltros_1">
+        <test-method status="PASS" signature="testConsultaConFiltros1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ap04.ConsultaConFiltros_1@11276c2]" name="testConsultaConFiltros1" duration-ms="59732" started-at="2018-09-26T04:21:57Z" finished-at="2018-09-26T04:22:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConsultaConFiltros1 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.optaris.deyel.bam.ap04.ConsultaConFiltros_1@11276c2]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:21:57Z" finished-at="2018-09-26T04:21:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.optaris.deyel.bam.ap04.ConsultaConFiltros_1@11276c2]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:22:57Z" finished-at="2018-09-26T04:22:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.optaris.deyel.bam.ap04.ConsultaConFiltros_1 -->
+      <class name="com.optaris.deyel.bam.ba01.ConsultaInicial_1">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.optaris.deyel.bam.ba01.ConsultaInicial_1@1f13d6e]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:26:39Z" finished-at="2018-09-26T04:26:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testConsultaInicial1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ba01.ConsultaInicial_1@1f13d6e]" name="testConsultaInicial1" duration-ms="62213" started-at="2018-09-26T04:26:39Z" finished-at="2018-09-26T04:27:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConsultaInicial1 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.optaris.deyel.bam.ba01.ConsultaInicial_1@1f13d6e]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:27:41Z" finished-at="2018-09-26T04:27:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.optaris.deyel.bam.ba01.ConsultaInicial_1 -->
+      <class name="com.optaris.deyel.bam.ap01.ConsultaInicial_1">
+        <test-method status="PASS" signature="testConsultaInicial1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ap01.ConsultaInicial_1@707e36]" name="testConsultaInicial1" duration-ms="13915" started-at="2018-09-26T04:18:55Z" finished-at="2018-09-26T04:19:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConsultaInicial1 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.optaris.deyel.bam.ap01.ConsultaInicial_1@707e36]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:18:55Z" finished-at="2018-09-26T04:18:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.optaris.deyel.bam.ap01.ConsultaInicial_1@707e36]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:19:09Z" finished-at="2018-09-26T04:19:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.optaris.deyel.bam.ap01.ConsultaInicial_1 -->
+      <class name="com.optaris.deyel.bam.ap04.ConsultaInicial_1">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.optaris.deyel.bam.ap04.ConsultaInicial_1@aa12dd]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:22:57Z" finished-at="2018-09-26T04:22:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testConsultaInicial1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ap04.ConsultaInicial_1@aa12dd]" name="testConsultaInicial1" duration-ms="18845" started-at="2018-09-26T04:22:57Z" finished-at="2018-09-26T04:23:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConsultaInicial1 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.optaris.deyel.bam.ap04.ConsultaInicial_1@aa12dd]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:23:15Z" finished-at="2018-09-26T04:23:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.optaris.deyel.bam.ap04.ConsultaInicial_1 -->
+      <class name="com.optaris.deyel.bam.ap01.ConsultaConFiltros_1">
+        <test-method status="PASS" signature="testConsultaConFiltros1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ap01.ConsultaConFiltros_1@6d1014]" name="testConsultaConFiltros1" duration-ms="41294" started-at="2018-09-26T04:18:13Z" finished-at="2018-09-26T04:18:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConsultaConFiltros1 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.optaris.deyel.bam.ap01.ConsultaConFiltros_1@6d1014]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:18:13Z" finished-at="2018-09-26T04:18:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.optaris.deyel.bam.ap01.ConsultaConFiltros_1@6d1014]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:18:55Z" finished-at="2018-09-26T04:18:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.optaris.deyel.bam.ap01.ConsultaConFiltros_1 -->
+      <class name="com.optaris.deyel.bam.ap05.ConsultaInicial_1">
+        <test-method status="FAIL" signature="testConsultaInicial1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ap05.ConsultaInicial_1@11f39f9]" name="testConsultaInicial1" duration-ms="28828" started-at="2018-09-26T04:24:00Z" finished-at="2018-09-26T04:24:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]at org.testng.Assert.fail(Assert.java:96)at org.testng.Assert.failNotEquals(Assert.java:776)at org.testng.Assert.assertTrue(Assert.java:44)at org.testng.Assert.assertTrue(Assert.java:54)at com.optaris.deyel.bam.ap05.ConsultaInicial_1.testConsultaInicial1(ConsultaInicial_1.java:37)at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)at java.lang.reflect.Method.invoke(Method.java:498)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.Invoker.invokeMethod(Invoker.java:571)at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)at org.testng.TestRunner.privateRun(TestRunner.java:648)at org.testng.TestRunner.run(TestRunner.java:505)at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:295)at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:90)at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConsultaInicial1 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.optaris.deyel.bam.ap05.ConsultaInicial_1@11f39f9]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:24:00Z" finished-at="2018-09-26T04:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.optaris.deyel.bam.ap05.ConsultaInicial_1@11f39f9]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:24:29Z" finished-at="2018-09-26T04:24:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.optaris.deyel.bam.ap05.ConsultaInicial_1 -->
+      <class name="com.optaris.deyel.bam.ap02.ConsultaConFiltros_1">
+        <test-method status="PASS" signature="testConsultaConFiltros1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ap02.ConsultaConFiltros_1@14ddd49]" name="testConsultaConFiltros1" duration-ms="38501" started-at="2018-09-26T04:19:09Z" finished-at="2018-09-26T04:19:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConsultaConFiltros1 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.optaris.deyel.bam.ap02.ConsultaConFiltros_1@14ddd49]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:19:09Z" finished-at="2018-09-26T04:19:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.optaris.deyel.bam.ap02.ConsultaConFiltros_1@14ddd49]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:19:47Z" finished-at="2018-09-26T04:19:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.optaris.deyel.bam.ap02.ConsultaConFiltros_1 -->
+      <class name="com.optaris.deyel.bam.ba02.ConsultaInicial_1">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.optaris.deyel.bam.ba02.ConsultaInicial_1@144fc21]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:28:48Z" finished-at="2018-09-26T04:28:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testConsultaInicial1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ba02.ConsultaInicial_1@144fc21]" name="testConsultaInicial1" duration-ms="87548" started-at="2018-09-26T04:28:48Z" finished-at="2018-09-26T04:30:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConsultaInicial1 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.optaris.deyel.bam.ba02.ConsultaInicial_1@144fc21]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:30:15Z" finished-at="2018-09-26T04:30:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.optaris.deyel.bam.ba02.ConsultaInicial_1 -->
+      <class name="com.optaris.deyel.bam.ap02.ConsultaInicial_1">
+        <test-method status="PASS" signature="testConsultaInicial1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ap02.ConsultaInicial_1@1554b06]" name="testConsultaInicial1" duration-ms="14399" started-at="2018-09-26T04:19:47Z" finished-at="2018-09-26T04:20:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConsultaInicial1 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.optaris.deyel.bam.ap02.ConsultaInicial_1@1554b06]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:19:47Z" finished-at="2018-09-26T04:19:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.optaris.deyel.bam.ap02.ConsultaInicial_1@1554b06]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:20:02Z" finished-at="2018-09-26T04:20:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.optaris.deyel.bam.ap02.ConsultaInicial_1 -->
+      <class name="com.optaris.deyel.bam.ba01.ConsultaConFiltros_1">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.optaris.deyel.bam.ba01.ConsultaConFiltros_1@1bbf57e]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:24:29Z" finished-at="2018-09-26T04:24:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testConsultaConFiltros1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ba01.ConsultaConFiltros_1@1bbf57e]" name="testConsultaConFiltros1" duration-ms="129683" started-at="2018-09-26T04:24:29Z" finished-at="2018-09-26T04:26:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConsultaConFiltros1 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.optaris.deyel.bam.ba01.ConsultaConFiltros_1@1bbf57e]" name="afterTest" is-config="true" duration-ms="16" started-at="2018-09-26T04:26:38Z" finished-at="2018-09-26T04:26:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.optaris.deyel.bam.ba01.ConsultaConFiltros_1 -->
+      <class name="com.optaris.deyel.bam.bp01.ConsultaInicial_1">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.optaris.deyel.bam.bp01.ConsultaInicial_1@16eabae]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:31:08Z" finished-at="2018-09-26T04:31:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="FAIL" signature="testConsultaInicial1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.bp01.ConsultaInicial_1@16eabae]" name="testConsultaInicial1" duration-ms="54896" started-at="2018-09-26T04:31:08Z" finished-at="2018-09-26T04:32:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]at org.testng.Assert.fail(Assert.java:96)at org.testng.Assert.failNotEquals(Assert.java:776)at org.testng.Assert.assertTrue(Assert.java:44)at org.testng.Assert.assertTrue(Assert.java:54)at com.optaris.deyel.bam.bp01.ConsultaInicial_1.testConsultaInicial1(ConsultaInicial_1.java:30)at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)at java.lang.reflect.Method.invoke(Method.java:498)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.Invoker.invokeMethod(Invoker.java:571)at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)at org.testng.TestRunner.privateRun(TestRunner.java:648)at org.testng.TestRunner.run(TestRunner.java:505)at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:295)at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:90)at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConsultaInicial1 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.optaris.deyel.bam.bp01.ConsultaInicial_1@16eabae]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:32:03Z" finished-at="2018-09-26T04:32:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.optaris.deyel.bam.bp01.ConsultaInicial_1 -->
+      <class name="com.optaris.deyel.bam.bp02.ConsultaInicial_1">
+        <test-method status="PASS" signature="testConsultaInicial1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.bp02.ConsultaInicial_1@729b1e]" name="testConsultaInicial1" duration-ms="36021" started-at="2018-09-26T04:32:48Z" finished-at="2018-09-26T04:33:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConsultaInicial1 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.optaris.deyel.bam.bp02.ConsultaInicial_1@729b1e]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:32:48Z" finished-at="2018-09-26T04:32:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.optaris.deyel.bam.bp02.ConsultaInicial_1@729b1e]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:33:24Z" finished-at="2018-09-26T04:33:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.optaris.deyel.bam.bp02.ConsultaInicial_1 -->
+      <class name="com.optaris.deyel.bam.ap03.ConsultaConFiltros_1">
+        <test-method status="PASS" signature="testConsultaConFiltros1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ap03.ConsultaConFiltros_1@14e1548]" name="testConsultaConFiltros1" duration-ms="95175" started-at="2018-09-26T04:20:02Z" finished-at="2018-09-26T04:21:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConsultaConFiltros1 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.optaris.deyel.bam.ap03.ConsultaConFiltros_1@14e1548]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:20:02Z" finished-at="2018-09-26T04:20:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.optaris.deyel.bam.ap03.ConsultaConFiltros_1@14e1548]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:21:37Z" finished-at="2018-09-26T04:21:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.optaris.deyel.bam.ap03.ConsultaConFiltros_1 -->
+      <class name="com.optaris.deyel.bam.ap03.ConsultaInicial_1">
+        <test-method status="PASS" signature="testConsultaInicial1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ap03.ConsultaInicial_1@3a4799]" name="testConsultaInicial1" duration-ms="20140" started-at="2018-09-26T04:21:37Z" finished-at="2018-09-26T04:21:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConsultaInicial1 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.optaris.deyel.bam.ap03.ConsultaInicial_1@3a4799]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:21:37Z" finished-at="2018-09-26T04:21:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.optaris.deyel.bam.ap03.ConsultaInicial_1@3a4799]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:21:57Z" finished-at="2018-09-26T04:21:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.optaris.deyel.bam.ap03.ConsultaInicial_1 -->
+      <class name="com.optaris.deyel.bam.ba02.ConsultaConFiltros_1">
+        <test-method status="FAIL" signature="testConsultaConFiltros1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ba02.ConsultaConFiltros_1@11cdd8a]" name="testConsultaConFiltros1" duration-ms="67002" started-at="2018-09-26T04:27:41Z" finished-at="2018-09-26T04:28:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]at org.testng.Assert.fail(Assert.java:96)at org.testng.Assert.failNotEquals(Assert.java:776)at org.testng.Assert.assertTrue(Assert.java:44)at org.testng.Assert.assertTrue(Assert.java:54)at com.optaris.deyel.bam.ba02.ConsultaConFiltros_1.testConsultaConFiltros1(ConsultaConFiltros_1.java:64)at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)at java.lang.reflect.Method.invoke(Method.java:498)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.Invoker.invokeMethod(Invoker.java:571)at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)at org.testng.TestRunner.privateRun(TestRunner.java:648)at org.testng.TestRunner.run(TestRunner.java:505)at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:295)at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:84)at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:90)at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:203)at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:155)at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConsultaConFiltros1 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.optaris.deyel.bam.ba02.ConsultaConFiltros_1@11cdd8a]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:27:41Z" finished-at="2018-09-26T04:27:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.optaris.deyel.bam.ba02.ConsultaConFiltros_1@11cdd8a]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:28:48Z" finished-at="2018-09-26T04:28:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.optaris.deyel.bam.ba02.ConsultaConFiltros_1 -->
+      <class name="com.optaris.deyel.bam.bp01.ConsultaConFiltros_1">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.optaris.deyel.bam.bp01.ConsultaConFiltros_1@1faf8f2]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:30:15Z" finished-at="2018-09-26T04:30:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testConsultaConFiltros1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.bp01.ConsultaConFiltros_1@1faf8f2]" name="testConsultaConFiltros1" duration-ms="52494" started-at="2018-09-26T04:30:15Z" finished-at="2018-09-26T04:31:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConsultaConFiltros1 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.optaris.deyel.bam.bp01.ConsultaConFiltros_1@1faf8f2]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:31:08Z" finished-at="2018-09-26T04:31:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.optaris.deyel.bam.bp01.ConsultaConFiltros_1 -->
+      <class name="com.optaris.deyel.bam.aa01.ConsultaInicial_1">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.optaris.deyel.bam.aa01.ConsultaInicial_1@1063c0a]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:16:26Z" finished-at="2018-09-26T04:16:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testConsultaInicial1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.aa01.ConsultaInicial_1@1063c0a]" name="testConsultaInicial1" duration-ms="107624" started-at="2018-09-26T04:16:26Z" finished-at="2018-09-26T04:18:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConsultaInicial1 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.optaris.deyel.bam.aa01.ConsultaInicial_1@1063c0a]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:18:13Z" finished-at="2018-09-26T04:18:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.optaris.deyel.bam.aa01.ConsultaInicial_1 -->
+      <class name="com.optaris.deyel.bam.ap05.ConsultaConFiltros_1">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.optaris.deyel.bam.ap05.ConsultaConFiltros_1@1d7a715]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:23:15Z" finished-at="2018-09-26T04:23:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testConsultaConFiltros1(java.lang.String)[pri:0, instance:com.optaris.deyel.bam.ap05.ConsultaConFiltros_1@1d7a715]" name="testConsultaConFiltros1" duration-ms="44492" started-at="2018-09-26T04:23:15Z" finished-at="2018-09-26T04:24:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConsultaConFiltros1 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.optaris.deyel.bam.ap05.ConsultaConFiltros_1@1d7a715]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-09-26T04:24:00Z" finished-at="2018-09-26T04:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.optaris.deyel.bam.ap05.ConsultaConFiltros_1 -->
+    </test> <!-- bam -->
+  </suite> <!-- optaris -->
+</testng-results>
